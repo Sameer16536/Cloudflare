@@ -45,6 +45,8 @@ export default {
   },
 };
 ```
-
+npx wrangler login
+npx wrangler whoami
+npm run deploy
 ---
 
